@@ -33,7 +33,7 @@ int receber(expr* ex, expr* dex, long double* e1, long double* e2, long double* 
     cout << "Insira a expressão da função f(x) (Digite \"Sair\" para sair):\n";
     cin >> s;
     if(s == "Sair") return 1;
-    cout << "Insira a expressão da derivada da função f'(x):\n";
+    cout << "Insira a expressão da função auxiliar fi(x):\n";
     cin >> s2;
     cout << "Insira as precisões e1 e e2 (no formato \"e1, e2\")\n";
     x += scanf("%Lf, %Lf", e1, e2);
