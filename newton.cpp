@@ -75,12 +75,8 @@ int main(){
         return 0;
     }
 
-    cout << "Teste\n";
-
     if (ex.esq == NULL) cout << "nulo esq\n";
     if (ex.dir == NULL) cout << "nulo dir\n";
-
-    cout << "Teste\n";
 
     printf("Raiz de f(x): %Lf\n", newton(e1, e2, apx, ex, dex, max));
 }
