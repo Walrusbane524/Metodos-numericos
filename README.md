@@ -1,7 +1,7 @@
 # Metodos-numericos
 Algoritmos de métodos numéricos.
 
-Expressões devem ser inseridas da seguinte forma:
+Expressões devem ser inseridas no seguinte formato:
 
   (expr)op(expr)
   
